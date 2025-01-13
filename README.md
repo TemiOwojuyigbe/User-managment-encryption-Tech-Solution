@@ -1,2 +1,2 @@
-# CodingProjects
-Coding Projects
+# Encryption Project
+Tech Solution Encryption project
