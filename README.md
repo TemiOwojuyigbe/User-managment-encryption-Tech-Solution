@@ -70,16 +70,6 @@ This project is a secure user authentication system that integrates Firebase Aut
 
 ---
 
-### **Screenshots**
-- **Registration Page**: Showing input validation and account creation.
-- **Login Page**: Demonstrating credential validation and error handling.
-- **Dashboard**: Displaying the personalized welcome message.
-- **Code Snippets**:
-  - Firebase configuration.
-  - User session management using `sessionStorage`.
-
----
-
 ### **Future Improvements**
 1. **Data Encryption**:
    - Encrypt sensitive user data before storing it in the database for an additional layer of security.
